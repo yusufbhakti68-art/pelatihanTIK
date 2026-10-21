@@ -4,16 +4,16 @@ body {
     color: #516347;
 }
 .kartu-profil {
-      width: 300px
-      margin 50px auto
-      padiing; 20px;
+      width: 300px;
+      margin: 50px auto;
+      padiing: 20px;
       background-color: white;
       border-radius: 15px
-      box-shadow:0 4px 8px rgba(255,60,71,0.5);
+      box-shadow: 0 4px 8px rgba(255,60,71,0.5);
 }  
 
 .kartu-profil img {
-  width: 150px
+  width: 150px;
   border-radius: 50%;
 }
 .kartu-profil {
